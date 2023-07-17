@@ -4,7 +4,10 @@
 ## INTRODUCTION
 
 ## MECHANISAM
+## software used
 
 ## SIMULATION 
+
+## SCEMATIC
 
 
