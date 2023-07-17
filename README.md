@@ -3,4 +3,8 @@
 
 ## INTRODUCTION
 
+## MECHANISAM
+
+## SIMULATION 
+
 
