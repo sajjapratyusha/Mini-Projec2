@@ -9,6 +9,8 @@
 
 ## SCEMATIC
 
+## REFERENCES
+
 # INTRODUCTION
 pipeline based application using asic. In this project we will do any physical design for pipeline application. Some benifits of pipeline design are  to increase of throughput(shorter critical path delay) . Decrease consumption of power and avoiding glitches , balancing paths .
 Actually basic concept behind pipeling is to reduce the execution speed of processor . By using above pipwelining concept implemented project is pipeline adder.
