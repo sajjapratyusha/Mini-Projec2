@@ -1,10 +1,9 @@
-# Mini-Projec2
+# Mini-Project2
 # ASIC IMPLEMENTATION OF PIPELINE ADDER
 
 ## INTRODUCTION
 
-## MECHANISAM
-## software used
+## Software Used
 
 ## SIMULATION 
 
