@@ -44,3 +44,33 @@ Timing analaysis or Clocktree
 
 
 
+
+# REFRENCES
+
+1] An Article on “Digital system design Lab blocks of a MIPS CPU(II) 16-bit ALU de
+ 
+[2] Beom Seon Ryu, Jung Sok Yi, Kie Youn Cho,” a design of low power 16-B AL TENCON. 
+ 
+[3] Beom Seon Ryu, Jung Sok Yi, Kie Youn Cho,” multi-level approache to low p design” 0-7803-5728-0/99 $4.00 0 1999 I
+
+[4] A lecture  pdf on ” Instruction pipelining”
+ 
+[5] Junkai Sun, Anping Jiang “The Power Dissipation Comparison of Different ALU Architectur. International Conference on Mechanical and Electrical Technology (ICMET 2010) 
+
+[6] An Article on “Basic pipelining” by B.Ramurthy CS506. 
+ 
+[7] An article on “Enhancing pipelining
+
+
+
+
+Author
+
+
+Sajja Pratyusha 
+
+Pre-Final Year B.tech ECE
+
+Rajiv Gandhi University of Knowledge Technologies 
+
+Mail : sajjapratyusha@gmail.com
